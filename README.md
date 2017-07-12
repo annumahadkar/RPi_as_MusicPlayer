@@ -1,6 +1,6 @@
 RuneAudio documentation
 ======================
-This is the official documentation for [RuneAudio](http://www.runeaudio.com/ "RuneAudio"), written by the [RuneAudio team](http://www.runeaudio.com/team/ "RuneAudio team") and mantained by the [community](http://www.runeaudio.com/forum/ "RuneAudio forum").
+This is the official documentation of [RuneAudio](http://www.runeaudio.com/ "RuneAudio"), written by the [RuneAudio team](http://www.runeaudio.com/team/ "RuneAudio team") and mantained by the [community](http://www.runeaudio.com/forum/ "RuneAudio forum").
 
 # Quick start guide
 
